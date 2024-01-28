@@ -1,6 +1,6 @@
 # Optimization Over Trained Neural Networks Taking a Relaxing Walk
 
-Author: Jiatai Tong, Junyang Cai, Thiago Serra
+Author of the paper: Jiatai Tong, Junyang Cai, Thiago Serra
 
 Link to the paper: https://arxiv.org/abs/2401.03451
 
