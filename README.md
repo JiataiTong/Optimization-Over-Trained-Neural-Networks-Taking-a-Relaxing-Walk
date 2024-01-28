@@ -1,4 +1,6 @@
-# Optimization Over Trained Neural Networks Taking a Relaxing Walk
+# Relax-and-Walk Implementation
+
+### Optimization Over Trained Neural Networks Taking a Relaxing Walk
 
 Author of the paper: Jiatai Tong, Junyang Cai, Thiago Serra
 
